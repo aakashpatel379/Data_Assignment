@@ -1,6 +1,7 @@
 ## DATA ASSIGNMENT
 
-Dataset: COVID-19 Diagnostic Laboratory Testing (PCR Testing) Time Series 
+Dataset: COVID-19 Diagnostic Laboratory Testing (PCR Testing) Time Series
+
 Submitted by: Aakash Patel
 
 #### 1.1 Introduction
@@ -24,11 +25,13 @@ Data for each state is sourced from either data submitted directly by the state 
 #### 1.3 Steps to Run
 
 1. Install Python 3.7 or above with pip
-2. Install Jupyter notebook in machine using below command
-	    `pip install notebook`
+2. Install Jupyter notebook in machine using below command:
+
+	 `pip install notebook`
 3. Open command prompt in the repo’s root directory.
-4. Execute below command
-        `jupyter notebook`
+4. Execute below command:
+
+    `jupyter notebook`
 5. Find the notebook Assignment.ipynb file and run the cells one by one from top.
 
 #### Metrics Description
